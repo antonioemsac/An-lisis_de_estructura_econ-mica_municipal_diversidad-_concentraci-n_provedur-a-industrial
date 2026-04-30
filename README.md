@@ -1,3 +1,3 @@
-# An-lisis_de_estructura_econ-mica_municipal_diversidad-_concentraci-n_provedur-a-industrial
+# Análisis_de_estructura_económica_municipal_diversidad-_concentración_proveduría-industrial
 "Análisis de estructura económica municipal: diversidad, concentración y potencial de proveeduría industrial en Oaxaca" Diversidad económica – qué tan variados son los sectores productivos en cada municipio (medido con el índice de Shannon en el código).  Concentración económica – si la actividad se enfoca en pocos sectores dominantes.
 El análisis combina técnicas de geoestadística y economía regional: genera mapas coropléticos con burbujas, diagramas de dispersión (concentración vs diversidad) y una matriz de especialización sectorial (heatmap de LQ). El objetivo es diagnosticar el tejido productivo municipal y detectar municipios oaxaqueños con potencial para integrarse como proveedores industriales, apoyando decisiones de desarrollo económico local.
